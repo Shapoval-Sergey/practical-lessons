@@ -1,0 +1,16 @@
+.social-networks {
+  font-family: 'PT Sans', sans-serif;
+  color: #212121;
+  line-height: 1.5;
+  font-size: 16 px;
+}
+
+.list {
+  color: #1976d2;
+  text-decoration: none;
+}
+
+.list a:hover,
+.list a:focus {
+  color: #ff4081;
+}
