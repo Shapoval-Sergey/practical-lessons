@@ -9,11 +9,12 @@ body {
 }
 
 .site-nav a {
-  text-decoration: darkorange;
+  text-decoration: none;
   color: brown;
 }
 
 .site-nav a:hover,
 .site-nav a:focus {
   color: darkcyan;
+  text-decoration: underline;
 }

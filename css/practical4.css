@@ -1,0 +1,21 @@
+.blog {
+  font-family: 'Roboto', 'Verdana', sans-serif;
+  color: #212121;
+  line-height: 1.5;
+  font-size: 16 px;
+}
+
+.blog-title h1 {
+  font-size: 18 px;
+}
+
+.blog-title a {
+  color: inherit;
+  font-size: inherit;
+  text-decoration: none;
+}
+
+.blog-title a:hover,
+.blog-title a:focus {
+  color: #2196f3;
+}

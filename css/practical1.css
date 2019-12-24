@@ -1,0 +1,18 @@
+.article {
+  font-family: 'Josefin Sans', sans-serif;
+  color: chocolate;
+  line-height: 1.5;
+  font-size: 16 px;
+}
+
+.article img {
+  border-style: double;
+  border-color: cornflowerblue;
+}
+
+.article h1 {
+  font-family: 'Lobster', cursive;
+  color: aqua;
+  background-color: black;
+  text-align: center;
+}
